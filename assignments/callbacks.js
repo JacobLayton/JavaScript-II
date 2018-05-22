@@ -10,8 +10,6 @@ firstItem(items, (firstItem) => {
 });
 
 
-
-
 function getLength(arr, cb) {
   // getLength passes the length of the array into the callback.
   cb(arr.length);
@@ -20,7 +18,6 @@ function getLength(arr, cb) {
 
 function last(arr, cb) {
   // last passes the last item of the array into the callback.
-  return 
 }
 
 function sumNums(x, y, cb) {
